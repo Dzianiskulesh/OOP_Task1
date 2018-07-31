@@ -1,5 +1,5 @@
 package com.epam.task01;
-
+// Проектные файлы (.idea) и папку с output (target) обычно не кладут под систему контроля версий.
 public class Circle extends Figure {
     private int radius;
 
